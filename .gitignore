@@ -1,0 +1,62 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.backup
+release.properties
+.flattened-pom.xml
+
+# Build
+build/
+dist/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Gradle
+.gradle/
+gradle/
+
+# STS
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Application Properties
+application-local.yml
+application-dev.yml
+application-prod.yml
+
+# OS
+Thumbs.db
+
+# Test Coverage
+.jacoco
+target/jacoco-report/
+
+# Spring Boot
+.spring-devtools.properties
