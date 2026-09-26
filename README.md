@@ -651,17 +651,6 @@ public class Application { }
 ## 📝 Postman Collection
 
 Import `employee-management-system.postman_collection.json` into Postman for ready-to-test endpoints.
-
-## 🔗 GitHub Portfolio
-
-Ready to push to GitHub:
-
-```bash
-git init
-git add .
-git commit -m "feat: Employee Management System with full CRUD, pagination, search, and tests"
-git remote add origin https://github.com/YOUR_USERNAME/employee-management-system.git
-git push -u origin main
 ```
 
 ## 📄 Freelancer Portfolio Description
