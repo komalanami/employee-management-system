@@ -651,7 +651,6 @@ public class Application { }
 ## 📝 Postman Collection
 
 Import `employee-management-system.postman_collection.json` into Postman for ready-to-test endpoints.
-```
 
 ## 📄 Freelancer Portfolio Description
 
